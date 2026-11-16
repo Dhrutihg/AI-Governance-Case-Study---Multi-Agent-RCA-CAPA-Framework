@@ -4,7 +4,7 @@
 
 This repository presents an experience-based AI Governance case study of a multi-agent, AI-assisted Root Cause Analysis (RCA) and Corrective and Preventive Action (CAPA) framework designed to support software engineering quality processes.
 
-The framework uses specialised AI agents to analyse software defects, retrieve similar historical issues, generate root cause hypotheses, categorise defects, and recommend corrective and preventive actions.
+The framework uses specialised AI agents to analyse software defects, retrieve similar historical issues, generate root cause hypotheses, categorise defects, and recommend corrective and preventive actions and generate reports and trends based on underlying data.
 
 The system is designed as a decision-support solution, with human reviewers retaining authority over AI-generated recommendations and their acceptance into the engineering data environment.
 
