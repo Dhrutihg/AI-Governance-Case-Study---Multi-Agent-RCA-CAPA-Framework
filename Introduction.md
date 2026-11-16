@@ -53,7 +53,7 @@ Unverified technical details are explicitly identified rather than assumed.
 
 | Document | Description |
 |---|---|
-| [Methodology and Limitations](00-methodology-and-limitations.md) | Scope, evidence basis and limitations of the case study |
+| [Methodology and Limitations](Methodology-and-Limitations.md) | Scope, evidence basis and limitations of the case study |
 | [Stage 1: System Baseline](01-system-baseline.md) | Business purpose, architecture, technology stack, workflows and human decision boundaries |
 | [Stage 2: AI Risk Assessment](02-ai-risk-assessment.md) | Identification and assessment of potential AI risks |
 | [Stage 3: Governance Controls](03-governance-controls.md) | Proposed governance controls and mitigation strategies |
