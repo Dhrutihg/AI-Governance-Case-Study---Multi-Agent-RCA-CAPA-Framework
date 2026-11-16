@@ -53,7 +53,7 @@ Unverified technical details are explicitly identified rather than assumed.
 
 | Document | Description |
 |---|---|
-| [Methodology and Limitations](Methodology and Limitations.md) | Scope, evidence basis and limitations of the case study |
+| [Methodology and Limitations](https://github.com/Dhrutihg/AI-Governance-Case-Study---Multi-Agent-RCA-CAPA-Framework/blob/main/Methodology%20and%20Limitations.md) | Scope, evidence basis and limitations of the case study |
 | [Stage 1: System Baseline](01-system-baseline.md) | Business purpose, architecture, technology stack, workflows and human decision boundaries |
 | [Stage 2: AI Risk Assessment](02-ai-risk-assessment.md) | Identification and assessment of potential AI risks |
 | [Stage 3: Governance Controls](03-governance-controls.md) | Proposed governance controls and mitigation strategies |
@@ -86,7 +86,7 @@ This case study is based on my professional experience working with and developi
 The system architecture, agent responsibilities, workflows and implementation status have been documented from my direct involvement and recollection. Following my departure from the organisation, I no longer have access to its internal development environment, source code, infrastructure, screenshots or technical documentation.
 
 
-For further details, refer to [Methodology and Limitations](00-methodology-and-limitations.md).
+For further details, refer to [Methodology and Limitations](https://github.com/Dhrutihg/AI-Governance-Case-Study---Multi-Agent-RCA-CAPA-Framework/blob/main/Methodology%20and%20Limitations.md).
 
 ---
 
