@@ -8,4 +8,7 @@ Consequently:
 - Implemented and planned capabilities are distinguished based on my understanding at the time of development.
 - Details that could not be confirmed are explicitly identified as requiring technical verification.
 - The governance assessment represents an independent analysis of the described system design, not an assessment endorsed by the former organisation.
+  
 No proprietary source code, confidential company information, internal URLs or identifiable engineering data are included.
+
+All governance risks, observations and recommendations presented in this case study are based on the documented system description and should be interpreted within these methodological limitations.
