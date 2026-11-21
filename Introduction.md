@@ -54,7 +54,7 @@ Unverified technical details are explicitly identified rather than assumed.
 | Document | Description |
 |---|---|
 | [Methodology and Limitations](https://github.com/Dhrutihg/AI-Governance-Case-Study---Multi-Agent-RCA-CAPA-Framework/blob/main/Methodology%20and%20Limitations.md) | Scope, evidence basis and limitations of the case study |
-| [Stage 1: System Baseline](01-system-baseline.md) | Business purpose, architecture, technology stack, workflows and human decision boundaries |
+| [Stage 1: System Baseline](https://github.com/Dhrutihg/AI-Governance-Case-Study---Multi-Agent-RCA-CAPA-Framework/blob/main/Stage%201%3A%20System%20Baseline%20and%20Architecture%20Assessment.md) | Business purpose, architecture, technology stack, workflows and human decision boundaries |
 | [Stage 2: AI Risk Assessment](02-ai-risk-assessment.md) | Identification and assessment of potential AI risks |
 | [Stage 3: Governance Controls](03-governance-controls.md) | Proposed governance controls and mitigation strategies |
 | [Stage 4: Monitoring and Evaluation](04-monitoring-and-evaluation.md) | Governance monitoring, performance evaluation and accountability mechanisms |
